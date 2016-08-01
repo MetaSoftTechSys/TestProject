@@ -1,3 +1,3 @@
 # TestProject
 
-Manual Instruction Template
+Manual Instruction Template for Beginners 
